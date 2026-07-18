@@ -1,0 +1,7 @@
+1.1
+- More user friendly Interface
+- Adding 'Generate Lyric' button (no function)
+- Adding 'Save to .lrc' button
+- Generate more lyric lines manual
+- Delete lyric lines (synced to previous and next line after deletion)
+- Moving line number (Hover to Line column)
